@@ -1,25 +1,26 @@
 tag,name,parent
-g2kpi196605,Agenda 2030,
+kolada,Kolada kommun/region data,
+g2kpi196605,Agenda 2030,kolada
 g2kpi130255,Agenda 2030 - 17 mål,g2kpi196605
 g2kpi196561,Agenda 2030 alla nyckeltal i en tabell,g2kpi196605
-g2kpi170520,Om kommunen,
+g2kpi170520,Om kommunen,kolada
 g2kpi206451,Läget i kommunen,g2kpi170520
 g2kpi74560,Befolkning,g2kpi170520
 g2kpi195847,Demokrati,g2kpi170520
 g2kpi170469,Medborgarundersökningen,g2kpi170520
 g2kpi205891,Nationella trygghetsundersökningen,g2kpi170520
 g2kpi206553,Anmälda brott och upplevd trygghet,g2kpi170520
-g2kpi148352,Effektivitet,
-g2kpi168143,Ekonomi,
+g2kpi148352,Effektivitet,kolada
+g2kpi168143,Ekonomi,kolada
 g2kpi168155,Nettokostnadsavvikelse,g2kpi168143
 g2kpi168439,Finansiella nyckeltal,g2kpi168143
 g2kpi168150,Resultat- och balansräkning,g2kpi168143
 g2kpi171247,Kostnader för olika verksamheter,g2kpi168143
 g2kpi166919,Köp av verksamhet,g2kpi168143
-g2kpi139225,Personal,
+g2kpi139225,Personal,kolada
 g2kpi84661,Personal,g2kpi139225
 g2kpi115967,Heltidsresan,g2kpi139225
-g2kpi166166,Utbildning,
+g2kpi166166,Utbildning,kolada
 g2kpi166164,Förskola,g2kpi166166
 g2kpi148706,Öppna jämförelser - Förskola Övergripande,g2kpi166164
 g2kpi148707,Öppna jämförelser - Förskola Kommunal regi,g2kpi166164
@@ -51,14 +52,14 @@ g2kpi184240,Skolinspektionens enkäter gymnasieskola ,g2kpi166166
 g2kpi171662,Elevenkät gymnasieelever år 2,g2kpi184240
 g2kpi184249,"Enhet, elevenkät gymnasieelever år 2",g2kpi184240
 g2kpi184513,Pedagogisk personal enkät gymnasieskola,g2kpi184240
-g2kpi92539,Kultur/Fritid,
-g2kpi97616,IFO,
+g2kpi92539,Kultur/Fritid,kolada
+g2kpi97616,IFO,kolada
 g2kpi82977,Individ- och familjeomsorg totalt,g2kpi97616
 g2kpi168077,Ekonomiskt bistånd,g2kpi97616
 g2kpi97615,Brukarbedömning IFO,g2kpi97616
 g2kpi168379,Brukarbedömning placerade barn och unga,g2kpi97616
 g2kpi115668,Överförmyndarverksamhet,g2kpi97616
-g2kpi97136,Funk.,
+g2kpi97136,Funk.,kolada
 g2kpi207293,Funktionsnedsättning LSS och SoL,g2kpi97136
 g2kpi93286,Brukarbedömning funk. kommun,g2kpi97136
 g2kpi165752,Brukarbedömning funk. enhet,g2kpi97136
@@ -69,20 +70,20 @@ g2kpi165761,"SoL - Boende med särskild service, enhet",g2kpi165752
 g2kpi165762,"SoL - Boendestöd, enhet",g2kpi165752
 g2kpi165763,"SoL - Sysselsättning, enhet",g2kpi165752
 g2kpi110397,Enhetsundersökning LSS,g2kpi97136
-g2kpi74605,Äldre,
+g2kpi74605,Äldre,kolada
 g2kpi206198,Äldreomsorg,g2kpi74605
 g2kpi196322,Brukarbedömning äldreomsorg,g2kpi74605
 g2kpi117479,Enhetsdata,g2kpi74605
 g2kpi74616,Särskilt boende enhet,g2kpi117479
 g2kpi74614,Hemtjänst enhet,g2kpi117479
-g2kpi149259,Miljö,
-g2kpi84132,Samhällsb.,
+g2kpi149259,Miljö,kolada
+g2kpi84132,Samhällsb.,kolada
 g2kpi121852,Energi,g2kpi84132
 g2kpi121849,Bostadsförsörjning och detaljplan,g2kpi84132
 g2kpi121851,Avfallshantering,g2kpi84132
 g2kpi132265,Gatustatistik,g2kpi84132
-g2kpi145939,Näringsliv,
-g2kpi83760,Mer,
+g2kpi145939,Näringsliv,kolada
+g2kpi83760,Mer,kolada
 g2kpi162043,BRP+,g2kpi83760
 g2kpi178442,Digitalisering i kommuner och regioner,g2kpi83760
 g2kpi84105,Integration,g2kpi83760
@@ -93,7 +94,7 @@ g2kpi168393,Nära vård ,g2kpi83760
 g2kpi114612,Revision,g2kpi83760
 g2kpi95271,Strategi för hälsa,g2kpi83760
 g2kpi207703,Folkhälsa ,g2kpi83760
-g2kpi116697,ÖJ & KKiK,
+g2kpi116697,ÖJ & KKiK,kolada
 g2kpi74586,Kommunens kvalitet i korthet (KKiK),g2kpi116697
 g2kpi84160,Öppna jämförelser Övriga,g2kpi116697
 g2kpi92852,Öppna jämförelser - Företagsklimat (Insikt),g2kpi84160
