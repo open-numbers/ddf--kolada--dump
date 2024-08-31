@@ -62,7 +62,11 @@ def process_all_csv_files(directory):
             remove_leading_zeros_in_geo(file_path)
 
 if __name__ == "__main__":
-    directory = "./"  # Specify your directory containing the CSV files here
+    if len(sys.argv) < 2:
+        print("Usage: python script.py <folder_path>")
+        sys.exit(1)
+        
+    directory = sys.argv[1]  # Specify your directory containing the CSV files here
     print(f"Processing all CSV files in directory: {directory}")
     process_all_csv_files(directory)
     print("Processing completed.")
