@@ -1,5 +1,5 @@
 concept,concept_type,domain,name,description,drill_up,tags,usability,municipality_type,perspective,auspices,is_divided_by_gender,operating_area,ou_publication_date,publication_date,has_ou_data,prel_publication_date
-geo,entity_domain,,Alla landsdelar,,,,,,,,,,,,,
+geo,entity_domain,,Alla områden,,,,,,,,,,,,,
 deso,entity_set,geo,DeSO,,"[""regso""]",,,,,,,,,,,
 regso,entity_set,geo,RegSO,,"[""kommun""]",,,,,,,,,,,
 kommun,entity_set,geo,Kommun,,"[""region""]",,,,,,,,,,,
